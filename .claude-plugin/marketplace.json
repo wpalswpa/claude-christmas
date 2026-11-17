@@ -1,0 +1,5 @@
+{
+  "name": "claude-christmas",
+  "owner": { "name": "wpalswpa" },
+  "plugins": [{ "name": "christmas", "source": "./" }]
+}
